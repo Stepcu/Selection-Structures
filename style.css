@@ -1,0 +1,52 @@
+html {
+    background-color: #E0C52D;
+    color: #3B340C;
+
+}
+body {
+    font-size: 20px;
+    margin-left: 50px;
+    padding: 10px;
+
+}
+
+h1 {
+    margin-bottom: 100px;
+    margin-left: 400px;
+    margin-right: 400px;
+    font-size: 90px;
+    padding: 15px;
+    border: 10px double #3B340C;
+    text-align: center;
+}
+h2 {
+    margin-bottom: 50px;
+    font-size: 50px;
+    text-align: left;
+    margin-left: 50px;
+}
+
+button {
+    background-color: #7A6C18;
+    padding:15px;
+    margin-left: 60px;
+    margin-right: 100px;
+    border-radius: 15px;
+    border: #3B340C 3px solid; 
+    margin-top: 50px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #FADC33;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+button:hover {
+    box-shadow: 1px 1px 50px 33px rgba(59,52,12,0.75);
+    -webkit-box-shadow: 1px 1px 50px 33px rgba(59,52,12,0.75);
+    -moz-box-shadow: 1px 1px 50px 33px rgba(59,52,12,0.75);
+}
+
